@@ -8,8 +8,8 @@ Consta aqui MODELOS para servir de exemplo. Feito em Excel, optei por facilitar 
 
 > Contém VBA e Macros, portanto necessita habilitar para que funcione corretamente.
 
-> antes de imprimir confira antes o layout da pagina.
+> Antes de imprimir confira o layout da pagina.
 
-> senha para desbloquear os arquivos: 1234
+> Senha para desbloquear os arquivos: 1234
 
  
